@@ -1,0 +1,32 @@
+body{
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+section{
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+.categories {
+    width: 33.3%;
+}
+
+.products {
+    width: 33.3%;
+}
+
+.product-info {
+    width: 33.3%;
+}
+
+button {
+    display: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: azure;
+}
